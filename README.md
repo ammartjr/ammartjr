@@ -12,6 +12,8 @@ then
 
 ruby mailer.rb
 
+works with any linux operating systems
+
 enjoy 
 
 any bugs please contact me ammarmontana6666@gmail.com
