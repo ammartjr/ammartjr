@@ -16,4 +16,6 @@ works with any linux operating systems
 
 enjoy 
 
-any bugs please contact me ammarmontana6666@gmail.com
+any bugs please contact me ammarmontana6666@gmail.com 
+
+developer https://vipmods.net
