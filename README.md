@@ -1,4 +1,3 @@
-# ammartjr
 Perform varous kinds of attacks using your gmail or yahoo address
 
 
